@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Android LevelUp</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="menu_movies">All Movies</string>
+    <string name="menu_action">Action</string>
+    <string name="menu_crime">Crime</string>
+    <string name="menu_horror">Horror</string>
+    <string name="menu_comedy">Comedy</string>
+    <string name="menu_romance">Romance</string>
+</resources>
